@@ -1,1 +1,1 @@
-#Smart To Do List CLI
+# Smart-To-Do-List-CLI
